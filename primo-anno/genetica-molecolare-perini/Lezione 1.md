@@ -153,4 +153,5 @@ Un altro celebre esempio di complementazione è la cosiddetta alfa-complementazi
 
 ![](https://phepatus.xyz/data/md-attachments-prova/Beta-galactosidase%20breakdown-01_Fig%206%20-%20Full%20alpha%20complementation.jpg)
 
+
 Qui sopra credit: https://goldbio.com/articles/article/explain-alpha-complementation-and-blue-white-screening-like-im-10

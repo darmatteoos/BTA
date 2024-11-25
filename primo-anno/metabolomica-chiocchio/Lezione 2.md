@@ -6,12 +6,12 @@ Coenzima A: forma tioesteri (ha un legame singolo che coinvolge zolfo).è format
 
 acetil-CoA è vantaggioso per la cellula: reagisce in maniera semplice (idrogeni del gruppo metile sono più acidi e CoA è buon gruppo uscente). In generale tioesteri (R=OSR) reagiscono più facilmente degli esteri (R=OOR): questo in quanto esiste una forma di risonanza per l'ossigeno che stabilizza la molecola (vedi slide "meccanismi di costruzione"). Il carbonio del carbonile si può legare un nucleofilo - indicato genericamente con Nu (ossigeno diventa negativo, e poi tale elettrone può ripristinare il doppio legame del carbonile e rilasciare il CoA).
 
-![[tioestere.svg]]
+![](https://phepatus.xyz/data/md-attachments-prova/tioestere.svg)
 
 carbonili coinvolti nelle reazioni di claisen e aldoliche.
 
 reazione di claisen del acetil-coa può essere facilitata da trasf di acetil-CoA in malonil-CoA: quest'ultimo ha un carbonile in più rispetto a acetil-CoA.
-![[path41.svg]]
+![](https://phepatus.xyz/data/md-attachments-prova/path41.svg)
 La trasformazione avviene per carbossilazione (aggiunta gruppo carbossilico che deriva dalla Co2 sotto forma di ione carbonato), in più ATP e biotina, legata ad un'enzima (biotin-enzyme). In primis si forma anidride mista (viene aggiunto un gruppo fosfato e rilasciato ADP) elettroni su azoto biotina attaccano il C del carbonile (come abbiamo visto precedentemente). Si tratta di reazione catalizzata da un enzima (biotina carbossilasi). si forma il fosfato viene rimosso (rimane un OH), è avvenuta una carbossilazione sull'azoto della biotina (aggiunta OOH). Acetil CoA nella forma enolato (abbiamo detto che gli H sono acidi, dunque l'anione è facilmente ottenibile), attacca nucleofilicamente (essendo anione è ottimo nucleofilo) il C del carbonile. L'ossigeno carico negativamente trasferisce il suo elettrone al doppio legame (e l'elettrone viene trasferito a un altro carbonile: si rompe legame C-N). Reazione catalizzata da enzima carbossil transferasi. Questo è fondamentale per la biosintesi dei terpeni.
 
 Le linee indulate al posto degli atomi rappresentano atomi non essenziali per la comprensione della reazione.

@@ -151,4 +151,69 @@ Come se ne vanno? Quelli a DNA hanno sequenze ripetute riconosciute da trasposas
 
 ![](attachments/Pasted%20image%2020250312112848.png)
 
-O viene espulso trasposone, oppure rimangono sequenze sovrapposte. Probabilmente in un meristema, da cui si è formata una gemma, e poi clonato per propagazione vegetativa (in questo caso, con la vite, con l'innesto).
+O viene espulso trasposone, oppure rimangono sequenze sovrapposte. Probabilmente in un meristema, da cui si è formata una gemma, e poi clonato per propagazione vegetativa (in questo caso, con la vite, con l'innesto). ==Non ho capito dall'immagine come si ha cambio fenotipo: è dovuto a modifica regione regolatoria, oppure al fatto che a rimanere sia proprio una sequenza LTR, che quindi può venir riconosciuta da RNA pol?==
+
+Termine lez trasposoni.
+
+---
+
+# Forward e reverse con caratteri QTL
+
+---
+
+Per lo studio:
+Il contenuto di questa lezione è compreso in qualunque corso o libro di genetica di base o agraria, a livello di
+laurea triennale. Rivedere quindi i materiali ed il libro del corso di genetica nella triennale.
+Inoltre, per aiutarvi:
+Per la parte di genetica quantitativa e modello di Mather (diapo 7): paragrafi 5.3, 5.4 e 5.6.3 del capitolo 5 di
+‘Miglioramento Genetico delle Piante’, Lorenzetti et al. EDAGRICOLE
+Per la parte sui marcatori molecolari: pagine 113-125 del libro ‘Miglioramento Genetico delle Piante’,
+Lorenzetti et al. EDAGRICOLE
+
+---
+
+QTL (caratteri quantitativi): caratteri apparentemente non con ereditarietà di tipo mendeliano (ossia caratteri per cui all'esame visivo di un individuo per un singolo carattere, riesco a definirne il relativo genotipo). Costituiscono la maggior parte dei caratteri. 
+
+Altezza quasi sempre controllata da **molti geni**, e fortemente suscettibile di **effetti ambientali**. La combinazione di questi due aspetti comporta la difficoltà di derivare il genotipo di un QTL dall'osservazione del fenotipo.
+
+Per 70-80 anni la metà dei biologi ha ritenuto che essi seguissero altre leggi rispetto a quelle mendeliane. Negli anni 70' si dimostra di poter ricondurre alla genetica mendeliana i geni QTL.
+
+![](attachments/Pasted%20image%2020250312145853.png)
+
+Sono individui misurabili ma non classificabili in classi, per quel carattere, e per questo si parla anche di **caratteri metrici**.
+
+Esperimento del 1915 circa, da ricercatore svedese (Nilsson-Ehle), si ha studio di colorazione cariosside frumento. Incroci tra frumenti a cariosside colorata/scura e chiara. La F1 ha una colorazione intermedia (rosa). Se fosse mendeliano, ci aspetteremmo 1/4 piante chiare, 1/2 e 1/4 chiare. Tuttavia si rinvengono piante con molte più gradazioni, difficilmente classificabili. Inoltre frequenza non corrisponde a quella mendeliana: 1/16 è di piante con cariosside chiara e 1/16 con cariosside scura come i genitori. Era una frequenza descritta da Mendel, data dal doppio omozigote recessivo (seme rugoso/verde x liscio/giallo) per incrocio di linea pura per due caratteri. Dunque ipotizza azione di due geni, entrambi omozigoti recessivi in un genitore e entrambi dominanti nel secondo. Se inoltre al posto di dominanza stretta ipotizziamo dominanza intermedia (all'epoca era stata descritta), allora il discorso quadra ancora meglio: gli altri 14/16 sono combinazioni mendeliane degli alleli che possono contribuire di poco a cambio colorazione.
+
+Numero di alleli a geni diversi che aumentano o diminuiscono l'intensità del carattere -> questo è ciò che conta nei QTL. Chiamando in questo caso R e R' i due geni, in cui possono essere presenti due alleli, che aumentano/diminuiscono con la stessa intensità il carattere (gli alleli a due loci diversi hanno gli stessi effetti)
+
+![](attachments/Pasted%20image%2020250312150910.png)
+
+6/16 per i fenotipi intermedi esemplificano ciò: diverse combinazioni nella ripartizione degli alleli tra i due loci, ma tutti presentano due R e due r.
+
+Per questi geni, **il risultato sul fenotipo della costituzione genetica si esprime come somma algebrica degli alleli che incrementano + diminuiscono l'intensità del carattere**.
+
+Questo prima che si sapesse della concezione gene -> enzima -> effetto su colorazione. Era una considerazione di carattere statistico
+
+R poi si è scoperto essere un TF (come nella vite vista prima). Ciascun locus è su due omeologhi.
+
+Effetto: nei QTL è ben definita. Si definisce effetto di un gene che influenza un QTL la metà della distanza tra i due omozigoti. Poniamo i fenotipi su un asse. In questo caso lunghezza spiga carattere.
+![](attachments/Pasted%20image%2020250312151604.png)
+
+Si indica con a minuscolo. Effetto in questo caso è a = (12-8)/2 cm (effetto assume l'unità di misura di riferimento per il carattere).
+
+Se ora sostituiamo in un individuo allele q con Q, osserveremo un discostamento nel fenotipo atteso (effetto additivo) dato dalla valore medio parentale (QQ + qq)/2.
+
+si tratta di una misura statistica, non desumibile da un solo individuo.
+
+Vedremo che locus per carattere quantitativo spesso non è regione puntiforme sul genoma ma un intervallo sul cromosoma (a volte perché non definito con abbastanza precisione), che contiene più geni. QTL dunque può identificare regione cromosoma, oppure un singolo gene, a seconda del contesto (in questo secondo caso meglio usare il termine gene).
+
+**Effetto additivo** è il cambiamento sul fenotipo che ci aspettiamo dallo switch di un allele che governa il carattere. La somma degli effetti additivi a tutti i geni coinvolti ci dà il fenotipo risultante (o meglio la media, in quanto i vari individui, pur recando lo stesso genotipo, potranno risentire vistosamente di effetti ambientali).
+
+Esiste un secondo effetto: effetto di dominanza. Scostamento da valore medio parentale e effettivo valore medio che si riscontra negli eterozigoti. Infatti non sempre fenotipo medio di eterozigote corrisponde con valore medio parentale: va misurato. A volte si ha corrispondenza (**d = 0**), indica mancanza di dominanza (**dominanza intermedia**, eccezione a mendel classica). Altrimenti valore medio misurato può essere uguale a uno dei genitori (8 o 12 in questo caso): in questo caso **d = a**. Si parla di **dominanza completa**, ed è la situazione mendeliana. Possiamo avere anche la cosiddetta **overdominance** (sovradominanza), se media eterozigoti è sconfina da valore più alto (o anche più basso?). Situazione non prevista da genetica mendeliana (non possiamo avere un seme più rugoso del rugoso)
+
+Overdominance molto importante per miglioramento genetico piante (**1/3** piante coltivate sfrutta overdominance). Soprattutto nel mais. In questo contesto prende il nome di **eterosi**.
+
+## Influenza effetti ambientali, alcuni esempi
+
+Architettura dell'apparato radicale: nei cereali dato da radici seminali (fuoriuscenti da embrione), oppure da radici che si formano da nodi basali della pianta (piccolo germoglio). Le seconde sono più influenzate dall'ambiente, la prima poco (il numero di radici seminali è prefissato dai geni implicati nello sviluppo, prima dell'esposizione all'ambiente). Mentre disponibilità idrica, patogeni, temperatura suolo portano a variabilità ambientale.
+
